@@ -1,0 +1,18 @@
+Invalid vote: 6
+Invalid vote: 7
+
+Number of voters: 12
+Number of valid votes: 10
+Number of spoilt votes: 2
+
+Candidate Score:
+
+ram               4
+sham              1
+alex              4
+justin            1
+rihanaa           0
+
+The winner(s)
+ram
+alex
